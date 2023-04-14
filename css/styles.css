@@ -1,3 +1,14 @@
-body{
-    background-color: #EDEADE;
+body {
+  background-color: #edeade;
 }
+
+footer {
+  margin-top: 5em;
+}
+
+#message{
+  background-color: cornflowerblue;
+  white-space: normal;
+  text-align: justify;
+}
+
